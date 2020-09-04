@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "Introspect",
     platforms: [
-        .macOS(.v10_13),
+        .macOS(.v10_12),
         .iOS(.v11),
         .tvOS(.v11)
     ],
